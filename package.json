@@ -1,0 +1,11 @@
+{
+  "name": "rectifier-screenshots",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "lodash": "^4.17.20",
+    "puppeteer": "^5.3.1"
+  }
+}
